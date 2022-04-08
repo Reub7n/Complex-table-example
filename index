@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+ <head>  
+  <meta charset = "utf - 8">
+  <title>Player stats</title>
+ </head> 
+ <body>  
+  <table border - "1"> 
+   <caption> 
+    <strong>Player stats</strong> 
+   </caption> 
+    <tr> 
+     <th rowspan="2"><img src = "Cr7.png" width = "120" height = "90"></th>   
+     <th colspan="4">Cristiano Ronaldo</th> 
+    </tr> 
+    <tr> 
+     <td>Matches played</td> 
+     <td>Goals</td> 
+     <td>Assists</td> 
+     <td>Hit woodwork</td> 
+    </tr> 
+    <tr> 
+     <th>Man. United</th> 
+     <th>30</th> 
+     <th>25</th> 
+     <th>5</th> 
+     <th>7</th> 
+    </tr> 
+    <tr> 
+     <th>Juventus</th> 
+     <th>35</th> 
+     <th>31</th> 
+     <th>6</th> 
+     <th>6</th> 
+    </tr>   
+  </table>   
+ </body>
+</html>
